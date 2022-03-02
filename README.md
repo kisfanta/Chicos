@@ -1,2 +1,4 @@
-# Chicos
-Csatlakozz ha mersz! ;)
+- alma
+- körte
+- barack
+
